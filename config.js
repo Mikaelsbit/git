@@ -1,2 +1,2 @@
-console.log('eat3');
-console.log('shit3');
+console.log('eat');
+console.log('shit');
